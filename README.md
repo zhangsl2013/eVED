@@ -4,7 +4,7 @@ This repository publishes an extended version of the Vehicle Energy Dataset ([VE
 
 # Files
 
-Before digging into the dataset, we recommend that users look into the raw [VED](https://github.com/gsoh/VED)) dataset to gain the view of when, where, and how the data is recorded, and how the data is structured in the format of csv files. We use the same structure of data in csv files in our extended version.
+Before digging into the dataset, we recommend that users look into the raw [VED](https://github.com/gsoh/VED) dataset to gain the view of when, where, and how the data is recorded, and how the data is structured in the format of csv files. We use the same structure of data in csv files in our extended version.
 
 # Access to the data
 
