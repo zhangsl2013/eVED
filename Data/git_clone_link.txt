@@ -1,1 +1,1 @@
-Please download the data via: git clone https://Datarepo@bitbucket.org/datarepo/eved_dataset.git
+Please download the data and the code which generates the data via: git clone https://Datarepo@bitbucket.org/datarepo/eved_dataset.git
