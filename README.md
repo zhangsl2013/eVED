@@ -4,11 +4,11 @@ This repository publishes an extended version of the Vehicle Energy Dataset ([VE
 
 This code pertains to our work: "Extended vehicle energy dataset (eVED): an enhanced large-scale dataset for deep learning on vehicle trip energy consumption" on [arxiv](https://arxiv.org/pdf/2203.08630.pdf).
 
-@article{zhang2022extended,
-  title={Extended vehicle energy dataset (eVED): an enhanced large-scale dataset for deep learning on vehicle trip energy consumption},
-  author={Zhang, Shiliang and Fatih, Dyako and Abdulqadir, Fahmi and Schwarz, Tobias and Ma, Xuehui},
-  journal={arXiv preprint arXiv:2203.08630},
-  year={2022}
+@article{zhang2022extended,\
+  title={Extended vehicle energy dataset (eVED): an enhanced large-scale dataset for deep learning on vehicle trip energy consumption},\
+  author={Zhang, Shiliang and Fatih, Dyako and Abdulqadir, Fahmi and Schwarz, Tobias and Ma, Xuehui},\
+  journal={arXiv preprint arXiv:2203.08630},\
+  year={2022}\
 }
 
 Please cite our above-referenced work if you are using any part of our code or data.
