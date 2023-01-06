@@ -2,7 +2,16 @@
 
 This repository publishes an extended version of the Vehicle Energy Dataset ([VED](https://github.com/gsoh/VED)), which is a large-scale dataset for vehicle energy consumption analysis. Compared with its original version, the extended VED (eVED) dataset is enhanced with accurate vehicle trip GPS coordinates, serving as a reliable basis to associate the VED trip records with external information e.g., road speed limit and intersections, from accessible map services to accumulate attributes that is relevant and essential in analyzing vehicle energy consumption. In particularly, we calibrate all the GPS trace records in the original VED dataset, upon which we associated the VED data with new attributes extracted from the Quantum Geographic Information System (QGIS), the Overpass API, the Open Street Map API, and Google Maps API. The associated attributes include 12,609,170 records of road elevation, 12,203,044 of speed limit, 12,281,719 of speed limit with direction (in case the road is bi-directional), 584,551 of intersections, 429,638 of bus stop, 312,196 of crossings, 195,856 of traffic signals, 29,397 of stop signs, 5,848 of turning loops, 4,053 of railway crossings (level crossing), 3,554 of turning circles, and 2,938 of motorway junctions. With the accurate GPS coordinates and enriched features of the vehicle trip record, the obtained eVED dataset can provide a precise and abundant medium to feed a learning engine, especially a deep learning engine that is more demanding on data sufficiency and richness. Moreover, our software work that extracts and associates vehicle trip trajectories with mentioned attributes can be reused as a toolkit to generate further vehicle trip datasets for specific user cases, with more attributes opening avenues to deep insights into vehicle behaviors and traffic dynamics analyses. We anticipate that the eVED dataset and our data enrichment software can serve both the academic and industrial automotive section as apparatus in developing future technologies.
 
-Link to the paper: "Extended vehicle energy dataset (eVED): an enhanced large-scale dataset for deep learning on vehicle trip energy consumption" on [arxiv](https://arxiv.org/pdf/2203.08630.pdf).
+This code pertains to our work: "Extended vehicle energy dataset (eVED): an enhanced large-scale dataset for deep learning on vehicle trip energy consumption" on [arxiv](https://arxiv.org/pdf/2203.08630.pdf).
+
+@article{zhang2022extended,
+  title={Extended vehicle energy dataset (eVED): an enhanced large-scale dataset for deep learning on vehicle trip energy consumption},
+  author={Zhang, Shiliang and Fatih, Dyako and Abdulqadir, Fahmi and Schwarz, Tobias and Ma, Xuehui},
+  journal={arXiv preprint arXiv:2203.08630},
+  year={2022}
+}
+
+Please cite our above-referenced work if you are using any part of our code or data.
 
 # Files
 
