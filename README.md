@@ -9,6 +9,6 @@ Before digging into the dataset, we recommend that users look into the raw [VED]
 
 # Access to the data
 
-Due to the quota limit of github, we store the eVED dataset along with code which is used to generate the eVED data on Bitbucket which is accessible to download via: git clone https://Datarepo@bitbucket.org/datarepo/eved_dataset.git
+Due to the quota limit of github, we store the eVED dataset along with code which is used to generate the eVED data on Bitbucket which is accessible to download via: git clone https://Datarepo@bitbucket.org/datarepo/eved-dataset.git
 
 You can view the data and code via the [link](https://bitbucket.org/datarepo/eved-dataset/src/main/).
